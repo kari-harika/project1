@@ -46,6 +46,7 @@
     width: 80%;
     margin: 2% 0% 2% 10%;
     font-size: 30px;
+    background-color: crimson;
 }
 
 .login-div button{
@@ -53,12 +54,4 @@
     width: 40%;
     margin: 0% 0% 2% 30%;
     font-size: 30px;
-}
-
-.login-div input:focus{
-    background-color: rgb(73, 151, 125);
-}
-
-.login-div button:hover{
-    box-shadow: 10px 10px 10px black;
 }
